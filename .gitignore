@@ -1,0 +1,6 @@
+__pycache__/
+
+log.html
+output.xml
+playwright-log.txt
+report.html
